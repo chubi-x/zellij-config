@@ -1,2 +1,2 @@
-theme "tokyo-night"
+theme "gruvbox"
 on_force_close "quit"
